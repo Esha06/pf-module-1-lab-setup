@@ -23,6 +23,7 @@ No Anaconda, no Colab, and no packages to install for this lab.
 | File | Purpose |
 |------|---------|
 | `Module 1 Lab - Student Guide - Lab Setup.pdf` | The handout — follow it part by part |
+| `Module 1 Lab - Instructor Guide - Lab Setup.pdf` | For instructors: preparation, timing, common issues and fixes |
 | `hello.py` | The first program from Part 12 |
 | `.gitignore` | Keeps `.venv/` and `__pycache__/` out of Git (Part 17) |
 
